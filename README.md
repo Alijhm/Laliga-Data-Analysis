@@ -14,4 +14,6 @@ Projet de data mining sur les données officielles de LaLiga de la saison 1993-1
 Python · Pandas · Matplotlib · Seaborn · scikit-learn
 
 ## Données
-Fichiers CSV issus des statistiques officielles de LaLiga, une saison par fichier (de 1993-1994 à 2024-2025).
+Fichiers CSV issus des statistiques officielles de LaLiga, une saison par fichier (de 1993-1994 à 2024-2025).  
+Source : [datahub.io/core/spanish-la-liga](https://datahub.io/core/spanish-la-liga) — licence PDDL (domaine public)  
+Données originales : [football-data.co.uk](http://www.football-data.co.uk/)
